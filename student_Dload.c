@@ -1,7 +1,7 @@
 #include"header.h"
 void student_Dload()
 {
-        FILE *f1=fopen("student.data","r");
+        FILE *f1=fopen("student.dat","r");
         if(f1==NULL)
         {
                 printf("No Previous Data Found\n");
