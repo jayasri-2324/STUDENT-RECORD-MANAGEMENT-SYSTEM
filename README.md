@@ -1,0 +1,13 @@
+## Project Title: Student Record Management System (Mini Project)
+--> The Student Record Management System is developed to maintain and manage student details in educational institutions.
+--> The main purpose of this project is to store student information digitally in an efficient and organized way and to reduce manual errors.
+--> This project is user-friendly because it provides simple options that users can easily understand and use according to their needs.
+--> I have provided a menu-driven system with different options, where users can select the required operation.
+--> **For Adding Records:** I have used the Singly Linked List concept with the Add at End operation. The user can enter the student's roll number, name, and percentage, and the details will be stored as a new node.
+--> **For Deleting Records:** I have provided different options to delete student details. Users can delete records using the roll number, name with roll number verification, or percentage.
+--> **For Modifying Records:** Users can update their existing student details whenever required. I have provided the same searching options used in deletion, such as roll number, name with roll number verification, and percentage.
+--> **For Saving Records:** After adding, deleting, or modifying student details, users need to save the changes. So, I have provided a save option to store all the records in a file and use them later.
+--> **For Displaying Records:** I have provided an option to display all the student details entered by the user. This helps users to view and check their records whenever needed.
+--> **For Sorting Records:** I have included a sorting option to arrange student details in an organized order, which makes the records easier to access.
+--> **For Exiting:** Finally, when the user wants to close the application, I have provided an exit option. Before exiting, the program asks whether the user wants to save the changes and exit or exit without saving. The user can choose according to their needs.
+--> Through this project, I have learned and implemented C programming concepts such as structures, pointers, dynamic memory allocation, singly linked lists, and file handling.
