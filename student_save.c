@@ -2,7 +2,7 @@
 
 void student_save()
 {
-        FILE *fs=fopen("student.data","w");
+        FILE *fs=fopen("student.dat","w");
         NODE *ptr;
         ptr=hptr;
         while(ptr!=NULL)
